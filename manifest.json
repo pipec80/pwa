@@ -1,7 +1,7 @@
 {
     "short_name": "twitoor ",
-    "name": "Weather: Do I need an umbrella?",
-    "description": "Weather forecast information",
+    "name": "felipe app",
+    "description": "felipe pwa app",
     "start_url": "index.html",
     "background_color": "#3498db",
     "theme_color": "#3498db",
