@@ -6,9 +6,10 @@ const CACHE_INMUTABLE_NAME = 'inmutable-v1';
 const CACHE_DYNAMIC_LIMIT = 50;
 
 const APP_SHELL = [
-    //'/',
-    '/index.html',
+    // '/',
+    'index.html',
     'css/style.css',
+    'img/favicon.ico',
     'img/avatars/hulk.jpg',
     'img/avatars/ironman.jpg',
     'img/avatars/spiderman.jpg',
